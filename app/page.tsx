@@ -51,7 +51,7 @@ export default function Home() {
               </svg>
             </div>
             <h1 className="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-              Xlooop HK AI Batch Runner
+              Xlooop AI Batch Runner
             </h1>
             <p className="text-gray-600 text-sm sm:text-base">
               批量生成 AI 内容，提升工作效率

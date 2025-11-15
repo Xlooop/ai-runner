@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Xlooop AI Runner',
-  description: 'HK AI Batch Runner Tool',
+  description: 'AI Batch Runner Tool',
 };
 
 export default function RootLayout({
